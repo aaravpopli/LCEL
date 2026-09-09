@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+ipykernel
+langchain_community
+pypdf
+langchain-text-splitters
+langchain-google-genai
+beautifulsoup4
+faiss-cpu
+streamlit
+fastapi
+uvicorn
